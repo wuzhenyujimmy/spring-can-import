@@ -1,0 +1,7 @@
+#Wed Apr 16 00:09:50 CST 2014
+org.springframework.oxm.castor.OrderItemType=org.springframework.oxm.castor.descriptors.OrderItemTypeDescriptor
+org.springframework.oxm.castor.OrderItem=org.springframework.oxm.castor.descriptors.OrderItemDescriptor
+org.springframework.oxm.castor.Flight=org.springframework.oxm.castor.descriptors.FlightDescriptor
+org.springframework.oxm.castor.Flights=org.springframework.oxm.castor.descriptors.FlightsDescriptor
+org.springframework.oxm.castor.Order=org.springframework.oxm.castor.descriptors.OrderDescriptor
+org.springframework.oxm.castor.FlightType=org.springframework.oxm.castor.descriptors.FlightTypeDescriptor

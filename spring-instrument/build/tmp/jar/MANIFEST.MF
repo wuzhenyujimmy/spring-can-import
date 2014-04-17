@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0 (Oracle Corporation)
+Implementation-Title: spring-instrument
+Implementation-Version: 4.1.0.BUILD-SNAPSHOT
+Premain-Class: org.springframework.instrument.InstrumentationSavingAge
+ nt
+Agent-Class: org.springframework.instrument.InstrumentationSavingAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: false
+

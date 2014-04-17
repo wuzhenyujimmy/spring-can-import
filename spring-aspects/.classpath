@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="spring-aspects/bin/eclipse"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/java"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/resources"/>
+	<classpathentry output="bin/test" kind="src" path="src/test/java"/>
+	<classpathentry output="bin/test" kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="src" path="/spring-aop" exported="true"/>
+	<classpathentry kind="src" path="/spring-beans" exported="true"/>
+	<classpathentry kind="src" path="/spring-context" exported="true"/>
+	<classpathentry kind="src" path="/spring-context-support" exported="true"/>
+	<classpathentry kind="src" path="/spring-orm" exported="true"/>
+	<classpathentry kind="src" path="/spring-tx" exported="true"/>
+	<classpathentry kind="src" path="/spring-core" exported="true"/>
+	<classpathentry kind="src" path="/spring-test" exported="true"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.7.4/c6eb79f2d6c7efbc7bf7bf2908a18b7beed98e13/aspectjweaver-1.7.4-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.7.4/d9d511e417710492f78bb0fb291a629d56bf4216/aspectjweaver-1.7.4.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/javax.cache/cache-api/1.0.0/71f0adeaf098d78a17774b11f6c83c8d90c47721/cache-api-1.0.0-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/javax.cache/cache-api/1.0.0/2b57384801243f387f1a2e7ab8066ac79c2a91d3/cache-api-1.0.0.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.eclipse.persistence/javax.persistence/2.0.0/f23c017697ea438defc76d8f22f77608786e6526/javax.persistence-2.0.0-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.eclipse.persistence/javax.persistence/2.0.0/bff9b1d9de629095001f1a4e77f450b2d6487b07/javax.persistence-2.0.0.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.9.5/46f703fb4266140c544d48a189cb25947eb6333e/mockito-core-1.9.5-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.9.5/c3264abeea62c4d2f367e21484fbb40c7e256393/mockito-core-1.9.5.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-all/1.3/47e033b7ab18c5dbd5fe29fc1bd5a40afe028818/hamcrest-all-1.3-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-all/1.3/63a21ebc981131004ad02e0434e799fd7f3a8d5a/hamcrest-all-1.3.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/javax.mail/javax.mail-api/1.4.7/9ecc8925a4b811f776855f01604a87d3169078a0/javax.mail-api-1.4.7-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/javax.mail/javax.mail-api/1.4.7/810ab1e3f4cd6481856642c5b266de2ac3b6e573/javax.mail-api-1.4.7.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/1.0/b10c90e57b7bb985a7b6a704769428fe5c2a732c/objenesis-1.0-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/1.0/9b473564e792c2bdf1449da1f0b1b5bff9805704/objenesis-1.0.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/3697e9f67a2ed7ac5f589cff30f21173299440/activation-1.1-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar"/>
+	<classpathentry kind="src" path="/spring-expression" exported="true"/>
+	<classpathentry kind="src" path="/spring-instrument" exported="true"/>
+	<classpathentry kind="src" path="/spring-jdbc" exported="true"/>
+	<classpathentry kind="src" path="/spring-web" exported="true"/>
+	<classpathentry kind="src" path="/spring-oxm" exported="true"/>
+	<classpathentry kind="src" path="/spring-webmvc" exported="true"/>
+	<classpathentry kind="src" path="/spring-webmvc-portlet" exported="true"/>
+	<classpathentry kind="src" path="/spring-webmvc-tiles3" exported="true"/>
+</classpath>

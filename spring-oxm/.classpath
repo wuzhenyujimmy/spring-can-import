@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="spring-oxm/bin/eclipse"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/java"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/resources"/>
+	<classpathentry output="bin/test" kind="src" path="src/test/java"/>
+	<classpathentry output="bin/test" kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="src" path="/spring-beans" exported="true"/>
+	<classpathentry kind="src" path="/spring-core" exported="true"/>
+	<classpathentry kind="src" path="/spring-context" exported="true"/>
+	<classpathentry kind="src" path="/spring-beans-groovy" exported="true"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.codehaus.castor/castor-xml/1.3.2/167563c71f8947ac87fa3259357047b8dbfd28b4/castor-xml-1.3.2-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.codehaus.castor/castor-xml/1.3.2/82cfb3c02aae008b56695a1db473ed242a5d453e/castor-xml-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.apache.xmlbeans/xmlbeans/2.6.0/29e80d2dd51f9dcdef8f9ffaee0d4dc1c9bbfc87/xmlbeans-2.6.0.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/com.thoughtworks.xstream/xstream/1.4.7/5db922f39e8bd8af65d4c4a9471fd94771e273d7/xstream-1.4.7-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/com.thoughtworks.xstream/xstream/1.4.7/bce3282142b63068260f021fcbe48b72e8d71a1a/xstream-1.4.7.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.jibx/jibx-run/1.2.5/303caf5668637250c87d268d370871284f16ebea/jibx-run-1.2.5-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.jibx/jibx-run/1.2.5/43282f8c6f2df207fbe2566a2f93adae95dca416/jibx-run-1.2.5.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.9.5/46f703fb4266140c544d48a189cb25947eb6333e/mockito-core-1.9.5-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.9.5/c3264abeea62c4d2f367e21484fbb40c7e256393/mockito-core-1.9.5.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-all/1.3/47e033b7ab18c5dbd5fe29fc1bd5a40afe028818/hamcrest-all-1.3-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-all/1.3/63a21ebc981131004ad02e0434e799fd7f3a8d5a/hamcrest-all-1.3.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/xmlunit/xmlunit/1.5/fca719d9f09ccf77b2df232099067d202309ad2c/xmlunit-1.5-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/xmlunit/xmlunit/1.5/7789cef5caffdecab50fd6099535ad2bc2e98044/xmlunit-1.5.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/xpp3/xpp3/1.1.3.4.O/ccbef9c0ff4b76082ae0ad413e342e84dd276bd2/xpp3-1.1.3.4.O-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/xpp3/xpp3/1.1.3.4.O/1c165262edac1c1e4f0a67c1643c4b7476187034/xpp3-1.1.3.4.O.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.codehaus.jettison/jettison/1.0.1/c19e2f95a7f683194cec924f407971579341028c/jettison-1.0.1-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.codehaus.jettison/jettison/1.0.1/cf0d3b18dd6876d18639d4b283b468bac686916/jettison-1.0.1.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.1/8bd7257fc98610b6082c6798f530318d5be8852a/commons-lang-2.1-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.1/4763ecc9d78781c915c07eb03e90572c7ff04205/commons-lang-2.1.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/28bb0405fddaf04f15058fbfbe01fe2780d7d3b6/commons-logging-1.1.3-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.codehaus.castor/castor-core/1.3.2/8865d38f41fc951d370b93c0dfee4977c94477b2/castor-core-1.3.2-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.codehaus.castor/castor-core/1.3.2/cda04f5de6986f7dc6f6ed3180da5c3849721162/castor-core-1.3.2.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/stax/stax/1.2.0/a717a5b01ce518c16ec5b8c4eed5a1c9ca32cbcc/stax-1.2.0-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/stax/stax/1.2.0/c434800de5e4bbe1822805be5fb1c32d6834f830/stax-1.2.0.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.1/e4fb55e2e35656974d78363afaa19720670ce867/joda-time-2.1-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.1/8f79e353ef77da6710e1f10d34fc3698eaaacbca/joda-time-2.1.jar"/>
+	<classpathentry sourcepath="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/1.0/b10c90e57b7bb985a7b6a704769428fe5c2a732c/objenesis-1.0-sources.jar" kind="lib" path="C:/Users/振宇/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/1.0/9b473564e792c2bdf1449da1f0b1b5bff9805704/objenesis-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/git-repo/spring-framework/spring-oxm/build/classes/castor"/>
+	<classpathentry kind="lib" path="E:/git-repo/spring-framework/spring-oxm/build/classes/jaxb"/>
+	<classpathentry kind="lib" path="E:/git-repo/spring-framework/spring-oxm/build/classes/xmlbeans"/>
+	<classpathentry kind="src" path="/spring-aop" exported="true"/>
+	<classpathentry kind="src" path="/spring-expression" exported="true"/>
+	<classpathentry kind="src" path="/spring-instrument" exported="true"/>
+</classpath>
